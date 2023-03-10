@@ -1,0 +1,11 @@
+INCOME,RECREATION,,JOB,,STATUS,,AGE GROUP,,HOME OWNER,,LABEL
+medium,skiing, ,design,,single,,twenties,,no,,high risk
+high,golf,,trading,,married,,forties,,yes,,lowrisk
+low,speedway,,transport,,married,,thirties,,yes,,medrisk
+medium,football,,banking,,single,,thirties,,yes,,lowrisk
+high,flying,,media,,married,,fifties,,yes,,high risk
+low,football,,security,,single,,twenties,,no,,medrisk
+medium,golf,,media,,single,,thirties,,yes,,medrisk
+medium,golf,,transport,,married,,forties,,yes,,lowrisk
+high,skiing,,banking,,single,,thirties,,yes,,high risk
+low,golf,,unemployed,,married,,forties,,yes,,high risk
